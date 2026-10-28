@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+.DS_Store
+Thumbs.db
+push_to_github.bat
+build_epub_pdf_and_kdp.py
+local_ai_detector_service.py
+run_claude_and_codex_audit.py
